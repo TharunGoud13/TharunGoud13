@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="#" title="Next.js">
-    <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="nextjs" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_5E3Dg1hGPCfUMJJSdsDY80KHSNmx-ORqg&s" alt="nextjs" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="#" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
