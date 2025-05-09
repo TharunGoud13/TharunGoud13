@@ -5,7 +5,7 @@
 - 👨‍💻 Frontend Developer
 - 📚 What do I believe? Jack of all, Master of some.
 
-## Languages & Technologies:
+
 
 ## Languages & Technologies:
 
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="#" title="Next.js">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js-white.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="nextjs" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="#" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="#" title="GitHub">
-    <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="github" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="github" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="#" title="Bitbucket">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/>
