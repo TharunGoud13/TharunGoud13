@@ -21,13 +21,7 @@
   <tr>
     <td>
       <h2>My GitHub Stats</h2>
-      <p>
-        ⭐ Total Stars Earned: <b>X</b><br/>
-        🕒 Total Commits (2025): <b>X</b><br/>
-        🔄 Total PRs: <b>X</b><br/>
-        ⚠️ Total Issues: <b>X</b><br/>
-        👨‍💻 Contributed to (last year): <b>X</b>
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api?username=TharunGoud13&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
       <h2>Most Used Languages</h2>
